@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://84.252.133.121:/opt
+    user = stas
+    keyfile = /home/user/key.pem

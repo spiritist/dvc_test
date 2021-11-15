@@ -1,0 +1,5 @@
+outs:
+- md5: 25abbbdedc8da03c619ccaa03172ec9d.dir
+  size: 222968
+  nfiles: 73
+  path: xmls
